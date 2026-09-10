@@ -17,22 +17,6 @@ def _remove_resolve(plan: QueryPlan) -> None:
     plan.tools = [tool for tool in plan.tools if tool != "RESOLVE"]
 
 
-def _tax_step_is_computable(question: str) -> bool:
-    """LLM은 도구를 최종 결정하지 않는다 - "계산 의도로 보이나/세금 얘기가
-    있나"만 확률적으로 판단할 뿐, "지원 세목인가, 계좌가 하나로 명확한가,
-    납입액·소득 역할이 다 채워졌는가" 같은 실행 가능성 판정은 Python이
-    한다. tax_inputs.calculate가 이미 이 전부(세액공제 여부·ISA/중도인출
-    등 특례 제외·납입액 역할·소득 역할·단일 계좌)를 검사하므로 새로
-    베끼지 않고 그 함수를 dry-run으로 재사용한다 - 여기서 통과하면
-    실행 시점에도 반드시 통과한다(같은 함수라 판정이 어긋날 수 없다)."""
-    from .tax_inputs import calculate
-    try:
-        calculate(question, {})
-        return True
-    except ValueError:
-        return False
-
-
 def merge_anchor_plan(anchor: QueryAnchor, plan: QueryPlan, question: str | None = None) -> QueryPlan:
     """LLM 계획에 Python 확정 제약을 덮어씌운다. 반대 방향은 허용하지 않는다."""
     merged = plan.model_copy(deep=True)
@@ -114,12 +98,21 @@ def merge_anchor_plan(anchor: QueryAnchor, plan: QueryPlan, question: str | None
 
     allowed = set(anchor.allowed_source_types) - set(anchor.forbidden_source_types)
     locked_filters = [item.model_dump(mode="json") for item in anchor.filters]
-    if question is not None and merged.tools and set(merged.tools) == {"TAX"} and not _tax_step_is_computable(question):
-        merged.tools = ["RAG" for _ in merged.tools]
+    # Plan Merger는 Anchor와 LLM 계획을 합치는 역할만 맡는다. "이 도구가
+    # 실제로 실행 가능한가"는 별도 모듈(capability_gate)의 몫이다 - 도구별
+    # 검사를 여기 다 넣으면 이 파일이 도구 수만큼 계속 자라난다.
+    if question is not None:
+        from . import capability_gate
+        import logging
         for step in merged.plan:
-            if step.tool == "TAX":
-                step.tool = "RAG"
-                step.inputs = {**step.inputs, "source_types": ["institution"]}
+            gate = capability_gate.validate_step(step, anchor, question)
+            if gate.status == "REWRITE":
+                logging.getLogger("agent_v2.audit").info(
+                    "capability_gate REWRITE: step=%s %s->%s reason=%s",
+                    step.step, step.tool, gate.replacement_tool, gate.reason)
+                step.tool = gate.replacement_tool
+                step.inputs = {**step.inputs, **(gate.corrected_inputs or {})}
+        merged.tools = list(dict.fromkeys(s.tool for s in merged.plan))
 
     for step in merged.plan:
         inputs = dict(step.inputs)
