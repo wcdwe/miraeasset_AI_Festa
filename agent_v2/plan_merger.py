@@ -130,9 +130,18 @@ def merge_anchor_plan(anchor: QueryAnchor, plan: QueryPlan, question: str | None
             inputs["product_codes"] = requested_codes or anchor_codes
         requested_sources = set(inputs.get("source_types") or [])
         if not requested_sources:
+            # hints.source_types는 "상품·제도 키워드 둘 다 없어 LLM이 스스로
+            # 판단해야 한다"는 의미로 확정 안 된 질문에도 product를 포함한다
+            # (anchor.py: 상품도 제도 키워드도 없으면 셋 다 열어 둔다). 이걸
+            # LLM 없는 규칙 계획(rule_planner)이 그대로 실행 source_types로
+            # 쓰면, 확정된 상품이 하나도 없는데 상품 RAG를 시도하다 죽는다
+            # (실측: "작년에 수익률 20%였으면 올해도 비슷하게 벌겠네?" 같은
+            # 상품·제도 무관 질문이 매번 "상품 RAG는 먼저 상품코드를 확정해야
+            # 함"으로 실패). 확정 상품이 없으면 상품 검색 자체가 애초에 불가능
+            # 하므로 hints를 참고하지 않고 institution으로 확정한다.
             requested_sources = {"structured"} if step.tool in {
                 "FACT", "FILTER", "COMPARE", "TAX"
-            } else ({"product"} if anchor_codes else set(anchor.hints.source_types.values))
+            } else ({"product"} if anchor_codes else {"institution"})
         if step.tool == "RAG":
             # RAG의 실행기(task_executor)는 product/institution 문서만 검색한다.
             # "structured"는 FACT/FILTER/COMPARE가 다루는 정형 DB를 가리키는

@@ -89,7 +89,16 @@ def execute_tasks(question, plan):
                 hits = []
                 for source in sources:
                     if source == "product":
-                        if not scoped_codes: raise ValueError("상품 RAG는 먼저 상품코드를 확정해야 함")
+                        if not scoped_codes:
+                            # source가 하나뿐이면(호출부가 명시적으로 product만
+                            # 요청) 진짜 계약 위반이라 그대로 막는다. 여러
+                            # source가 함께 왔다면("확정 상품이 없어 product·
+                            # institution 둘 다 후보"인 애매한 질문) product
+                            # 하나가 전제조건 미충족이라고 institution 검색까지
+                            # 막을 이유가 없다 - 그 소스만 건너뛴다.
+                            if len(sources) == 1:
+                                raise ValueError("상품 RAG는 먼저 상품코드를 확정해야 함")
+                            continue
                         for code in scoped_codes:
                             hits.extend(retrieve_document_hits(
                                 query, "product", code, k=PRODUCT_HITS, fact_types=facts))
