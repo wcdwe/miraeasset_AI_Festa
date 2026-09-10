@@ -61,6 +61,19 @@ SYSTEM_PROMPT = """\
 # 연금 제도 설명에 늘 따라붙는 표현이라 근거에서 못 찾아도 지어낸 게 아니다.
 SAFE_NUMBER_CONTEXTS = ("첫째", "둘째", "셋째", "1)", "2)", "3)")
 RE_NUMBER = re.compile(r"\d[\d,]*(?:\.\d+)?")
+# "1)"/"2)"/"3)" 고정 목록만 봐서는 4 이상은 못 거른다. 절차를 여러 페이지
+# 근거를 모아 1~N으로 통짜로 다시 매기면(원문은 페이지마다 번호가 이어지는데
+# - p.6은 1~3, p.7은 4~6, p.8은 7 - 답은 처음부터 다시 센다) 번호 자체가
+# 그 근거 페이지에 없는 숫자가 된다(실측: "6. 매수수량 입력"의 원문 번호는
+# 7). 이건 지어낸 사실이 아니라 답을 읽기 좋게 다시 매긴 목록 표시일 뿐이다.
+# 그 줄에서 맨 앞에 오는 "숫자+./)"만 목록 번호로 본다 - 같은 줄 뒤쪽의
+# "(출처: doc7, p.8)"의 7·8까지 목록 번호로 오인하면 안 된다(실측: 한 줄
+# 전체를 검사 범위로 잡아 줄 안의 모든 숫자가 걸린 적이 있음).
+def _is_list_marker_number(answer: str, match: re.Match) -> bool:
+    line_start = answer.rfind("\n", 0, match.start()) + 1
+    if answer[line_start:match.start()].strip():
+        return False  # 이 숫자 앞에 같은 줄의 다른 글자가 있으면 목록 번호가 아니다
+    return bool(re.match(r"[.)]\s", answer[match.end():match.end() + 2]))
 
 
 def _num_forms(tok):
@@ -88,6 +101,8 @@ def check_numbers(answer, context):
         tok = m.group(0)
         window = answer[max(0, m.start() - 3): m.end() + 2]
         if any(s in window for s in SAFE_NUMBER_CONTEXTS):
+            continue
+        if _is_list_marker_number(answer, m):
             continue
         if not any(f in hay for f in _num_forms(tok)):
             bad.append(tok)
