@@ -1,0 +1,37 @@
+{
+  "generated_at": "2026-09-06T07:14:00.138172+00:00",
+  "status": "passed",
+  "baseline": {
+    "documents": 94,
+    "funds": 92,
+    "classes": 1071,
+    "performance": 3631,
+    "aum": 80
+  },
+  "integrated": {
+    "fund_products": 100,
+    "document_aliases": 100,
+    "product_master": 100,
+    "class_enrichment": 1172,
+    "periodic_return_rows": 5205,
+    "yearly_return_rows": 4714,
+    "fund_aum_history_rows": 284,
+    "asset_mix_rows": 318
+  },
+  "class_mapping_status": {
+    "EXACT_NORMALIZED_MATCH": 1123,
+    "NEW_CLASS": 47,
+    "AMBIGUOUS": 2
+  },
+  "mapping_errors": 0,
+  "conflicts_total": 378,
+  "conflicts_for_review": 3,
+  "conflicts_resolved_by_policy": 375,
+  "yearly_return_outliers": 1,
+  "invariants": {
+    "existing_processed_untouched": true,
+    "runtime_class_and_quantitative_source": "suhyeon",
+    "all_team_products_mapped": true,
+    "product_code_unique": true
+  }
+}

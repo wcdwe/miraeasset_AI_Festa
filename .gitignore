@@ -1,5 +1,8 @@
 # Dependencies
 node_modules/
+.venv/
+__pycache__/
+*.pyc
 
 # Secrets and local configuration
 .env
@@ -8,19 +11,22 @@ node_modules/
 
 # Temporary and generated local files
 tmp/
+.cache/
 *.tmp
 *.log
 *.db
 *.sqlite
 *.sqlite3
+vector_store/
 
 # Raw and duplicate PDF sources are shared separately
 data/투자설명서/
 data/docs/
+data/products/
+data/institution/
 
 # Editor and operating-system files
 .vscode/
 .idea/
 .DS_Store
 Thumbs.db
-

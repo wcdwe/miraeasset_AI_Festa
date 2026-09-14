@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "chunks": 10130,
+  "product_chunks": 9828,
+  "institution_chunks": 302,
+  "canonical_products": 92,
+  "skipped_products": [],
+  "funds_covered": 92,
+  "documents_covered": 150,
+  "short_chunks_under_80": 0,
+  "median_length": 931,
+  "max_length": 1831,
+  "boilerplate_chunks": 138,
+  "section_counts": {
+    "risk": 728,
+    "fees": 1203,
+    "pricing": 1531,
+    "asset_composition": 837,
+    "other": 2096,
+    "purchase_redemption": 981,
+    "performance": 753,
+    "investment_target": 840,
+    "investment_strategy": 462,
+    "tax_distribution": 215,
+    "investment_objective": 76,
+    "institution": 302,
+    "class_inception": 92,
+    "source_quality_issue": 14
+  }
+}

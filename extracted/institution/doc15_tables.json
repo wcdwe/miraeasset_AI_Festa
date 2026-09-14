@@ -1,0 +1,66 @@
+[
+  {
+    "page": 1,
+    "table_index": 0,
+    "rows": 1,
+    "cols": 2,
+    "data": [
+      [
+        "DB형 급여 계산",
+        "퇴직 전 평균임금 30일분 × 계속근로기간"
+      ]
+    ],
+    "doc_id": "doc15",
+    "doc_type": "institution",
+    "source_doc": "doc15.pdf"
+  },
+  {
+    "page": 1,
+    "table_index": 1,
+    "rows": 2,
+    "cols": 2,
+    "data": [
+      [
+        "평균임금 1일분",
+        "퇴직 전 3개월간 지급된 임금 총액 ÷ 해당 기간의 총 일수"
+      ],
+      [
+        "평균임금 30일분",
+        "평균임금 1일분 × 30일분"
+      ]
+    ],
+    "doc_id": "doc15",
+    "doc_type": "institution",
+    "source_doc": "doc15.pdf"
+  },
+  {
+    "page": 2,
+    "table_index": 0,
+    "rows": 1,
+    "cols": 2,
+    "data": [
+      [
+        "DC형 급여 계산",
+        "연간임금총액의 1/12 이상"
+      ]
+    ],
+    "doc_id": "doc15",
+    "doc_type": "institution",
+    "source_doc": "doc15.pdf"
+  },
+  {
+    "page": 2,
+    "table_index": 1,
+    "rows": 1,
+    "cols": 2,
+    "data": [
+      [
+        "DC형 휴직기간 포함 시\n급여 계산",
+        "(연간임금총액 ÷ (12 - 휴업월수)) +\n(연 1회 임금성이 인정되는 상여금, 연차수당 ÷ 12)"
+      ]
+    ],
+    "doc_id": "doc15",
+    "doc_type": "institution",
+    "source_doc": "doc15.pdf"
+  }
+]

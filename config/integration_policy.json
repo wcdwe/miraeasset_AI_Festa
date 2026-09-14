@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "canonical_baseline": "data/processed",
+  "incoming_staging": "data/staging/suhyeon",
+  "integrated_output": "data/integrated",
+  "identity": {
+    "fund": "fund_id",
+    "product": "product_code",
+    "document": "doc_id",
+    "class": "class_id"
+  },
+  "merge_policy": {
+    "overwrite_existing_processed": false,
+    "auto_accept_equal_values": true,
+    "auto_fill_missing_values": true,
+    "conflicting_values": "SUHYEON_WINS_FOR_CLASS_AND_QUANTITATIVE_DATA",
+    "missing_dates": "REVIEW_REQUIRED",
+    "exact_duplicate_documents": "INDEX_CANONICAL_ONLY"
+  },
+  "authoritative_sources": {
+    "fund_identity_and_duplicate_registry": "pension",
+    "class_details": "suhyeon",
+    "quantitative_data": "suhyeon",
+    "rag_content": "suhyeon",
+    "search_and_api": "suhyeon"
+  },
+  "rag": {
+    "source": "suhyeon_page_text",
+    "canonical_document_mapping": "pension_duplicate_registry",
+    "target_chars": "800-1200",
+    "minimum_chars": 80,
+    "retain_quality_issue_chunks": true
+  }
+}

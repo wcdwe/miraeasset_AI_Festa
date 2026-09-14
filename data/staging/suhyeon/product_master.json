@@ -1,0 +1,2503 @@
+[
+  {
+    "product_code": "KR510902511M",
+    "product_name": {
+      "value": "미래에셋장기성장포커스증권자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋장기성장포커스증권자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋장기성장포커스증권자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 1,
+      "page": 1,
+      "evidence": "매우높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR510902773M",
+    "product_name": {
+      "value": "미래에셋고배당포커스연금저축증권전환형자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋고배당포커스연금저축증권전환형자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋고배당포커스연금저축증권전환형자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 3,
+      "page": 1,
+      "evidence": "다소높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR510902777M",
+    "product_name": {
+      "value": "미래에셋코어밸류연금저축증권전환형자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋코어밸류연금저축증권전환형자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋코어밸류연금저축증권전환형자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5110501016",
+    "product_name": {
+      "value": "미래에셋프리미엄크레딧알파증권자투자신탁(채권)",
+      "page": 1,
+      "evidence": "미래에셋프리미엄크레딧알파증권자투자신탁(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "미래에셋프리미엄크레딧알파증권자투자신탁(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5110601022",
+    "product_name": {
+      "value": "미래에셋차세대Fun인덱스증권자투자신탁[주식]",
+      "page": 1,
+      "evidence": "미래에셋차세대Fun인덱스증권자투자신탁[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋차세대Fun인덱스증권자투자신탁[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5111420047",
+    "product_name": {
+      "value": "하나파워e단기채증권자투자신탁[채권]",
+      "page": 1,
+      "evidence": "하나파워e단기채증권자투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "하나파워e단기채증권자투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5111450067",
+    "product_name": {
+      "value": "하나IT코리아증권자투자신탁(제1호)[주식]",
+      "page": 1,
+      "evidence": "하나IT코리아증권자투자신탁(제1호)[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "하나IT코리아증권자투자신탁(제1호)[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5113420012",
+    "product_name": {
+      "value": "한국투자 골드플랜 연금 증권 전환형 투자신탁 1호(국공채)",
+      "page": 1,
+      "evidence": "한국투자 골드플랜 연금 증권 전환형 투자신탁 1호(국공채)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "국공채",
+      "page": 1,
+      "evidence": "한국투자 골드플랜 연금 증권 전환형 투자신탁 1호(국공채)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5113420013",
+    "product_name": {
+      "value": "한국투자 골드플랜 연금 증권 전환형 자투자신탁 1호(채권)",
+      "page": 1,
+      "evidence": "한국투자 골드플랜 연금 증권 전환형 자투자신탁 1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "한국투자 골드플랜 연금 증권 전환형 자투자신탁 1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5113420015",
+    "product_name": {
+      "value": "한국투자 골드플랜 연금 증권 전환형 자투자신탁 1호(채권)",
+      "page": 1,
+      "evidence": "한국투자 골드플랜 연금 증권 전환형 자투자신탁 1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "한국투자 골드플랜 연금 증권 전환형 자투자신탁 1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5113420069",
+    "product_name": {
+      "value": "한국투자 크레딧포커스 ESG 증권 자투자신탁 1호(채권)",
+      "page": 1,
+      "evidence": "한국투자 크레딧포커스 ESG 증권 자투자신탁 1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "한국투자 크레딧포커스 ESG 증권 자투자신탁 1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5113450111",
+    "product_name": {
+      "value": "한국투자 골드플랜 연금 증권 전환형 투자신탁 1호(주식)",
+      "page": 1,
+      "evidence": "한국투자 골드플랜 연금 증권 전환형 투자신탁 1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "한국투자 골드플랜 연금 증권 전환형 투자신탁 1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5113450401",
+    "product_name": {
+      "value": "한국투자 중소밸류 증권 자투자신탁(주식)",
+      "page": 1,
+      "evidence": "한국투자 중소밸류 증권 자투자신탁(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "한국투자 중소밸류 증권 자투자신탁(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 3,
+      "page": 1,
+      "evidence": "다소높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5113470030",
+    "product_name": {
+      "value": "한국투자 인덱스플러스 증권 투자신탁 1호(주식-파생형)",
+      "page": 1,
+      "evidence": "한국투자 인덱스플러스 증권 투자신탁 1호(주식-파생형)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식-파생형",
+      "page": 1,
+      "evidence": "한국투자 인덱스플러스 증권 투자신탁 1호(주식-파생형)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5113470031",
+    "product_name": {
+      "value": "한국투자 인덱스플러스 증권 투자신탁 1호(주식-파생형)",
+      "page": 1,
+      "evidence": "한국투자 인덱스플러스 증권 투자신탁 1호(주식-파생형)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식-파생형",
+      "page": 1,
+      "evidence": "한국투자 인덱스플러스 증권 투자신탁 1호(주식-파생형)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5114420016",
+    "product_name": {
+      "value": "삼성ABF코리아장기채권인덱스증권투자신탁[채권]",
+      "page": 1,
+      "evidence": "삼성ABF코리아장기채권인덱스증권투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "삼성ABF코리아장기채권인덱스증권투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 4,
+      "page": 1,
+      "evidence": "보통위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5114420022",
+    "product_name": {
+      "value": "삼성클래식연금증권전환형투자신탁 제1호[채권]",
+      "page": 1,
+      "evidence": "삼성클래식연금증권전환형투자신탁 제1호[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "삼성클래식연금증권전환형투자신탁 제1호[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5114420027",
+    "product_name": {
+      "value": "삼성코리아중기채권증권자투자신탁 제1호[채권]",
+      "page": 1,
+      "evidence": "삼성코리아중기채권증권자투자신탁 제1호[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "삼성코리아중기채권증권자투자신탁 제1호[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5114420046",
+    "product_name": {
+      "value": "삼성퇴직연금인덱스12M증권자투자신탁 제1호[채권]",
+      "page": 1,
+      "evidence": "삼성퇴직연금인덱스12M증권자투자신탁 제1호[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "삼성퇴직연금인덱스12M증권자투자신탁 제1호[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5114450222",
+    "product_name": {
+      "value": "삼성클래식연금증권전환형자투자신탁 제1호[주식]",
+      "page": 1,
+      "evidence": "삼성클래식연금증권전환형자투자신탁 제1호[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "삼성클래식연금증권전환형자투자신탁 제1호[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5114450270",
+    "product_name": {
+      "value": "삼성퇴직연금KOSPI200증권자투자신탁 제1호[주식]",
+      "page": 1,
+      "evidence": "삼성퇴직연금KOSPI200증권자투자신탁 제1호[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "삼성퇴직연금KOSPI200증권자투자신탁 제1호[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5116501001",
+    "product_name": {
+      "value": "브이아이 퇴직연금 증권 자투자신탁 1호[채권]",
+      "page": 1,
+      "evidence": "브이아이 퇴직연금 증권 자투자신탁 1호[채권]",
+      "method": "name_regex_table",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "브이아이 퇴직연금 증권 자투자신탁 1호[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5117420097",
+    "product_name": {
+      "value": "신한초단기채증권투자신탁[채권]",
+      "page": 1,
+      "evidence": "신한초단기채증권투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "신한초단기채증권투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5118201004",
+    "product_name": {
+      "value": "우리하이플러스채권증권자투자신탁1호(채권)",
+      "page": 1,
+      "evidence": "우리하이플러스채권증권자투자신탁1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "우리하이플러스채권증권자투자신탁1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5118420006",
+    "product_name": {
+      "value": "우리나라초단기채권증권투자신탁[채권]",
+      "page": 1,
+      "evidence": "우리나라초단기채권증권투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "우리나라초단기채권증권투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5118420036",
+    "product_name": {
+      "value": "우리나라중단기ESG채권증권자투자신탁1호(채권)",
+      "page": 1,
+      "evidence": "우리나라중단기ESG채권증권자투자신탁1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "우리나라중단기ESG채권증권자투자신탁1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5118420062",
+    "product_name": {
+      "value": "우리단기채권증권투자신탁(채권)",
+      "page": 1,
+      "evidence": "우리단기채권증권투자신탁(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "우리단기채권증권투자신탁(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5119450058",
+    "product_name": {
+      "value": "신한코리아롱숏증권자투자신탁[주식]",
+      "page": 1,
+      "evidence": "신한코리아롱숏증권자투자신탁[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "신한코리아롱숏증권자투자신탁[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 3,
+      "page": 1,
+      "evidence": "다소높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5119501001",
+    "product_name": {
+      "value": "신한퇴직연금국공채증권자투자신탁[채권]",
+      "page": 1,
+      "evidence": "신한퇴직연금국공채증권자투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "신한퇴직연금국공채증권자투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5119520012",
+    "product_name": {
+      "value": "신한상대가치장기증권자투자신탁[채권]",
+      "page": 1,
+      "evidence": "신한상대가치장기증권자투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "신한상대가치장기증권자투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5120420039",
+    "product_name": {
+      "value": "교보악사 Tomorrow 장기우량 증권투자신탁 K-1호(채권)",
+      "page": 1,
+      "evidence": "교보악사 Tomorrow 장기우량 증권투자신탁 K-1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "교보악사 Tomorrow 장기우량 증권투자신탁 K-1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5120420091",
+    "product_name": {
+      "value": "교보악사 내일환매 초단기우량채증권투자신탁[채권]",
+      "page": 1,
+      "evidence": "교보악사 내일환매 초단기우량채증권투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "교보악사 내일환매 초단기우량채증권투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5120450015",
+    "product_name": {
+      "value": "교보악사 파워인덱스 증권 자투자신탁 1호 (주식)",
+      "page": 1,
+      "evidence": "교보악사 파워인덱스 증권 자투자신탁 1호 (주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "교보악사 파워인덱스 증권 자투자신탁 1호 (주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5120450018",
+    "product_name": {
+      "value": "교보악사 파워인덱스 증권 자투자신탁 1호 (주식)",
+      "page": 1,
+      "evidence": "교보악사 파워인덱스 증권 자투자신탁 1호 (주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "교보악사 파워인덱스 증권 자투자신탁 1호 (주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5120451001",
+    "product_name": {
+      "value": "교보악사 파워인덱스증권자투자신탁 2호[주식]",
+      "page": 1,
+      "evidence": "교보악사 파워인덱스증권자투자신탁 2호[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "교보악사 파워인덱스증권자투자신탁 2호[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5122420005",
+    "product_name": {
+      "value": "유진챔피언단기채증권자투자신탁(채권)",
+      "page": 1,
+      "evidence": "유진챔피언단기채증권자투자신탁(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "유진챔피언단기채증권자투자신탁(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5123365001",
+    "product_name": {
+      "value": "키움 연금 증권 자투자신탁 제C1호[국공채]",
+      "page": 1,
+      "evidence": "키움 연금 증권 자투자신탁 제C1호[국공채]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "국공채",
+      "page": 1,
+      "evidence": "키움 연금 증권 자투자신탁 제C1호[국공채]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5123420015",
+    "product_name": {
+      "value": "키움 단기 국공채 증권 자투자신탁 제1호[채권]",
+      "page": 1,
+      "evidence": "키움 단기 국공채 증권 자투자신탁 제1호[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "키움 단기 국공채 증권 자투자신탁 제1호[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5123420039",
+    "product_name": {
+      "value": "키움파이어니어ESG증권자투자신탁제1호[채권]",
+      "page": 1,
+      "evidence": "키움파이어니어ESG증권자투자신탁제1호[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "키움파이어니어ESG증권자투자신탁제1호[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5123420049",
+    "product_name": {
+      "value": "키움더드림단기채증권투자신탁[채권]",
+      "page": 1,
+      "evidence": "키움더드림단기채증권투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "키움더드림단기채증권투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5123490013",
+    "product_name": {
+      "value": "키움 Smart Investor 분할매수 증권 자투자신탁 제1호 [주식혼합-재간접형]",
+      "page": 1,
+      "evidence": "키움 Smart Investor 분할매수 증권 자투자신탁 제1호 [주식혼합-재간접형]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식혼합-재간접형",
+      "page": 1,
+      "evidence": "키움 Smart Investor 분할매수 증권 자투자신탁 제1호 [주식혼합-재간접형]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5123490016",
+    "product_name": {
+      "value": "키움 Smart Investor 분할매수 증권 자투자신탁 제1호 [주식혼합-재간접형]",
+      "page": 1,
+      "evidence": "키움 Smart Investor 분할매수 증권 자투자신탁 제1호 [주식혼합-재간접형]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식혼합-재간접형",
+      "page": 1,
+      "evidence": "키움 Smart Investor 분할매수 증권 자투자신탁 제1호 [주식혼합-재간접형]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5123490017",
+    "product_name": {
+      "value": "키움 Smart Investor 분할매수 증권 자투자신탁 제1호 [주식혼합-재간접형]",
+      "page": 1,
+      "evidence": "키움 Smart Investor 분할매수 증권 자투자신탁 제1호 [주식혼합-재간접형]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식혼합-재간접형",
+      "page": 1,
+      "evidence": "키움 Smart Investor 분할매수 증권 자투자신탁 제1호 [주식혼합-재간접형]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5125450023",
+    "product_name": {
+      "value": "신영밸류고배당증권자투자신탁(주식)",
+      "page": 1,
+      "evidence": "신영밸류고배당증권자투자신탁(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "신영밸류고배당증권자투자신탁(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5125450070",
+    "product_name": {
+      "value": "신영마라톤증권자투자신탁(주식)",
+      "page": 1,
+      "evidence": "신영마라톤증권자투자신탁(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "신영마라톤증권자투자신탁(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5127420034",
+    "product_name": {
+      "value": "KB스타 중기 국공채 증권 자투자신탁(채권)(41371)",
+      "page": 1,
+      "evidence": "KB스타 중기 국공채 증권 자투자신탁(채권)(41371)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "KB스타 중기 국공채 증권 자투자신탁(채권)(41371)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5127420039",
+    "product_name": {
+      "value": "KB스타 중기 국공채 증권 자투자신탁(채권)(41371)",
+      "page": 1,
+      "evidence": "KB스타 중기 국공채 증권 자투자신탁(채권)(41371)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "KB스타 중기 국공채 증권 자투자신탁(채권)(41371)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5127420045",
+    "product_name": {
+      "value": "KB스타 단기 국공채 증권 자투자신탁(채권)(B5517)",
+      "page": 1,
+      "evidence": "KB스타 단기 국공채 증권 자투자신탁(채권)(B5517)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "KB스타 단기 국공채 증권 자투자신탁(채권)(B5517)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5127420083",
+    "product_name": {
+      "value": "KB 장기국채 플러스 증권 자투자신탁(채권)(BG607)",
+      "page": 1,
+      "evidence": "KB 장기국채 플러스 증권 자투자신탁(채권)(BG607)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "KB 장기국채 플러스 증권 자투자신탁(채권)(BG607)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 4,
+      "page": 1,
+      "evidence": "보통위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5127450117",
+    "product_name": {
+      "value": "KB 그로스 포커스 증권 자투자신탁(주식)(35432)",
+      "page": 1,
+      "evidence": "KB 그로스 포커스 증권 자투자신탁(주식)(35432)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "KB 그로스 포커스 증권 자투자신탁(주식)(35432)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5127450215",
+    "product_name": {
+      "value": "KB스타 코스닥150 인덱스 증권 자투자신탁(주식-파생형)(BD844)",
+      "page": 1,
+      "evidence": "KB스타 코스닥150 인덱스 증권 자투자신탁(주식-파생형)(BD844)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식-파생형",
+      "page": 1,
+      "evidence": "KB스타 코스닥150 인덱스 증권 자투자신탁(주식-파생형)(BD844)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 1,
+      "page": 1,
+      "evidence": "매우높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5127450217",
+    "product_name": {
+      "value": "KB스타 코스닥150 인덱스 증권 자투자신탁(주식-파생형)(BD844)",
+      "page": 1,
+      "evidence": "KB스타 코스닥150 인덱스 증권 자투자신탁(주식-파생형)(BD844)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식-파생형",
+      "page": 1,
+      "evidence": "KB스타 코스닥150 인덱스 증권 자투자신탁(주식-파생형)(BD844)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 1,
+      "page": 1,
+      "evidence": "매우높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5127450473",
+    "product_name": {
+      "value": "KB 코리아 밸류업 액티브 증권 자투자신탁(주식)(EG176)",
+      "page": 1,
+      "evidence": "KB 코리아 밸류업 액티브 증권 자투자신탁(주식)(EG176)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "KB 코리아 밸류업 액티브 증권 자투자신탁(주식)(EG176)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5129420025",
+    "product_name": {
+      "value": "한화내일받는단기국공채증권 자투자신탁(채권)",
+      "page": 1,
+      "evidence": "한화내일받는단기국공채증권 자투자신탁(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "한화내일받는단기국공채증권 자투자신탁(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5129420031",
+    "product_name": {
+      "value": "한화코리아밸류채권증권 자투자신탁(채권)",
+      "page": 1,
+      "evidence": "한화코리아밸류채권증권 자투자신탁(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "한화코리아밸류채권증권 자투자신탁(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5131420007",
+    "product_name": {
+      "value": "DB정통크레딧증권자투자신탁[채권]",
+      "page": 1,
+      "evidence": "DB정통크레딧증권자투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "DB정통크레딧증권자투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5131420025",
+    "product_name": {
+      "value": "DB다같이장기채권증권투자신탁[채권]",
+      "page": 1,
+      "evidence": "DB다같이장기채권증권투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "DB다같이장기채권증권투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5139420015",
+    "product_name": {
+      "value": "흥국멀티크레딧증권자투자신탁[채권]",
+      "page": 1,
+      "evidence": "흥국멀티크레딧증권자투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "흥국멀티크레딧증권자투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5139420020",
+    "product_name": {
+      "value": "흥국퇴직연금멀티크레딧증권자투자신탁[채권]",
+      "page": 1,
+      "evidence": "흥국퇴직연금멀티크레딧증권자투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "흥국퇴직연금멀티크레딧증권자투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5144420020",
+    "product_name": {
+      "value": "NH-Amundi 국채10년 인덱스 증권자투자신탁[채권]",
+      "page": 1,
+      "evidence": "NH-Amundi 국채10년 인덱스 증권자투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "NH-Amundi 국채10년 인덱스 증권자투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 4,
+      "page": 1,
+      "evidence": "보통위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5144420081",
+    "product_name": {
+      "value": "NH-Amundi USD 초단기채권 증권자투자신탁(UH)[채권]",
+      "page": 1,
+      "evidence": "NH-Amundi USD 초단기채권 증권자투자신탁(UH)[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "NH-Amundi USD 초단기채권 증권자투자신탁(UH)[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 4,
+      "page": 1,
+      "evidence": "보통위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5144420091",
+    "product_name": {
+      "value": "NH-Amundi 하나로 단기채 증권투자신탁[채권]",
+      "page": 1,
+      "evidence": "NH-Amundi 하나로 단기채 증권투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "NH-Amundi 하나로 단기채 증권투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5144450095",
+    "product_name": {
+      "value": "NH-Amundi 필승 코리아 증권투자신탁 [주식]",
+      "page": 1,
+      "evidence": "NH-Amundi 필승 코리아 증권투자신탁 [주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "NH-Amundi 필승 코리아 증권투자신탁 [주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5147430065",
+    "product_name": {
+      "value": "KCGI코리아목표전환형증권투자신탁4호[채권혼합]",
+      "page": 1,
+      "evidence": "KCGI코리아목표전환형증권투자신탁4호[채권혼합](운용전환일 이후) KCGI코리아목표전환형증권투자신탁4호[채권]",
+      "method": "name_regex +review_flag",
+      "confidence": 1.0,
+      "note": "운용전환일 이후 별도 이름 있음 - 전환 전(현재) 명칭만 씀"
+    },
+    "asset_type": {
+      "value": "채권혼합",
+      "page": 1,
+      "evidence": "KCGI코리아목표전환형증권투자신탁4호[채권혼합]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 4,
+      "page": 1,
+      "evidence": "보통위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR514X450008",
+    "product_name": {
+      "value": "VIP한국형가치투자증권자투자신탁[주식]",
+      "page": 1,
+      "evidence": "VIP한국형가치투자증권자투자신탁[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "VIP한국형가치투자증권자투자신탁[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5152420028",
+    "product_name": {
+      "value": "다올전단채증권투자신탁[채권]",
+      "page": 1,
+      "evidence": "다올전단채증권투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "다올전단채증권투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR515302022M",
+    "product_name": {
+      "value": "KCGI코리아증권투자신탁1호[주식]",
+      "page": 1,
+      "evidence": "KCGI코리아증권투자신탁1호[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "KCGI코리아증권투자신탁1호[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153420022",
+    "product_name": {
+      "value": "미래에셋라이프사이클7090연금증권전환형자투자신탁1호(채권)",
+      "page": 1,
+      "evidence": "미래에셋라이프사이클7090연금증권전환형자투자신탁1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "미래에셋라이프사이클7090연금증권전환형자투자신탁1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153420063",
+    "product_name": {
+      "value": "미래에셋솔로몬단기국공채증권자투자신탁1호(채권)",
+      "page": 1,
+      "evidence": "미래에셋솔로몬단기국공채증권자투자신탁1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "미래에셋솔로몬단기국공채증권자투자신탁1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153420079",
+    "product_name": {
+      "value": "미래에셋솔로몬중장기국공채증권자투자신탁1호(채권)",
+      "page": 1,
+      "evidence": "미래에셋솔로몬중장기국공채증권자투자신탁1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "미래에셋솔로몬중장기국공채증권자투자신탁1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153420105",
+    "product_name": {
+      "value": "미래에셋솔로몬장기국공채증권자투자신탁1호(채권)",
+      "page": 1,
+      "evidence": "미래에셋솔로몬장기국공채증권자투자신탁1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "미래에셋솔로몬장기국공채증권자투자신탁1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153420318",
+    "product_name": {
+      "value": "미래에셋AI퀀트미국투자등급회사채증권자투자신탁(채권)",
+      "page": 1,
+      "evidence": "미래에셋AI퀀트미국투자등급회사채증권자투자신탁(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "미래에셋AI퀀트미국투자등급회사채증권자투자신탁(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 4,
+      "page": 1,
+      "evidence": "보통위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153420339",
+    "product_name": {
+      "value": "미래에셋프리미엄크레딧초단기증권투자신탁(채권)",
+      "page": 1,
+      "evidence": "미래에셋프리미엄크레딧초단기증권투자신탁(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "미래에셋프리미엄크레딧초단기증권투자신탁(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153450009",
+    "product_name": {
+      "value": "미래에셋퇴직플랜증권자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋퇴직플랜증권자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋퇴직플랜증권자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153450112",
+    "product_name": {
+      "value": "미래에셋라이프사이클2030연금증권전환형자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋라이프사이클2030연금증권전환형자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋라이프사이클2030연금증권전환형자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153450209",
+    "product_name": {
+      "value": "미래에셋퇴직연금코어밸류증권자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋퇴직연금코어밸류증권자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋퇴직연금코어밸류증권자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153450250",
+    "product_name": {
+      "value": "미래에셋퇴직연금고배당포커스증권자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋퇴직연금고배당포커스증권자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋퇴직연금고배당포커스증권자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 3,
+      "page": 1,
+      "evidence": "다소높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153450268",
+    "product_name": {
+      "value": "미래에셋스마트롱숏70증권자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋스마트롱숏70증권자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋스마트롱숏70증권자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 4,
+      "page": 1,
+      "evidence": "보통위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153450431",
+    "product_name": {
+      "value": "미래에셋인덱스플러스연금증권전환형자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋인덱스플러스연금증권전환형자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋인덱스플러스연금증권전환형자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153450658",
+    "product_name": {
+      "value": "미래에셋솔로몬초단기국공채증권자투자신탁2호(채권)",
+      "page": 1,
+      "evidence": "미래에셋솔로몬초단기국공채증권자투자신탁2호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "미래에셋솔로몬초단기국공채증권자투자신탁2호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153450772",
+    "product_name": {
+      "value": "미래에셋그린뉴딜인덱스증권자투자신탁(주식)",
+      "page": 1,
+      "evidence": "미래에셋그린뉴딜인덱스증권자투자신탁(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋그린뉴딜인덱스증권자투자신탁(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 1,
+      "page": 1,
+      "evidence": "매우높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153450785",
+    "product_name": {
+      "value": "미래에셋코어테크증권자투자신탁(주식)",
+      "page": 1,
+      "evidence": "미래에셋코어테크증권자투자신탁(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋코어테크증권자투자신탁(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 1,
+      "page": 1,
+      "evidence": "매우높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153450791",
+    "product_name": {
+      "value": "미래에셋퇴직플랜KRX100인덱스증권자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋퇴직플랜KRX100인덱스증권자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋퇴직플랜KRX100인덱스증권자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153451009",
+    "product_name": {
+      "value": "미래에셋연금아시아퍼시픽소비성장증권자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋연금아시아퍼시픽소비성장증권자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋연금아시아퍼시픽소비성장증권자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 3,
+      "page": 1,
+      "evidence": "다소높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5153520012",
+    "product_name": {
+      "value": "미래에셋퇴직플랜증권자투자신탁1호(채권)",
+      "page": 1,
+      "evidence": "미래에셋퇴직플랜증권자투자신탁1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "미래에셋퇴직플랜증권자투자신탁1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5156450026",
+    "product_name": {
+      "value": "베어링 고배당 증권자투자신탁(주식)",
+      "page": 1,
+      "evidence": "베어링 고배당 증권자투자신탁(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "베어링 고배당 증권자투자신탁(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 3,
+      "page": 1,
+      "evidence": "다소높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5157420003",
+    "product_name": {
+      "value": "마이다스 우량채권 증권 자투자신탁 제1호(채권)",
+      "page": 1,
+      "evidence": "마이다스 우량채권 증권 자투자신탁 제1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "마이다스 우량채권 증권 자투자신탁 제1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5157450017",
+    "product_name": {
+      "value": "마이다스 책임투자 증권 투자신탁(주식)",
+      "page": 1,
+      "evidence": "마이다스 책임투자 증권 투자신탁(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "마이다스 책임투자 증권 투자신탁(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5157450090",
+    "product_name": {
+      "value": "마이다스 거북이 90 증권 자투자신탁 1호(주식)",
+      "page": 1,
+      "evidence": "마이다스 거북이 90 증권 자투자신탁 1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "마이다스 거북이 90 증권 자투자신탁 1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 4,
+      "page": 1,
+      "evidence": "보통위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5160420009",
+    "product_name": {
+      "value": "코레이트셀렉트단기채증권투자신탁[채권]",
+      "page": 1,
+      "evidence": "코레이트셀렉트단기채증권투자신탁[채권]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "코레이트셀렉트단기채증권투자신탁[채권]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 6,
+      "page": 1,
+      "evidence": "매우낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR516702010M",
+    "product_name": {
+      "value": "에셋플러스 코리아 리치투게더 연금 증권 자투자신탁 1호(주식)",
+      "page": 1,
+      "evidence": "에셋플러스 코리아 리치투게더 연금 증권 자투자신탁 1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "에셋플러스 코리아 리치투게더 연금 증권 자투자신탁 1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5169950018",
+    "product_name": {
+      "value": "디에스Maestro증권자투자신탁[주식]",
+      "page": 1,
+      "evidence": "디에스Maestro증권자투자신탁[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "디에스Maestro증권자투자신탁[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5172450019",
+    "product_name": {
+      "value": "트러스톤칭기스칸증권투자신탁[주식]",
+      "page": 1,
+      "evidence": "트러스톤칭기스칸증권투자신탁[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "트러스톤칭기스칸증권투자신탁[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5174420011",
+    "product_name": {
+      "value": "한국밸류10년투자 연금 증권전환형자투자신탁 1호(채권) (A3066)",
+      "page": 1,
+      "evidence": "한국밸류10년투자 연금 증권전환형자투자신탁 1호(채권) (A3066)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "한국밸류10년투자 연금 증권전환형자투자신탁 1호(채권) (A3066)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR518101002M",
+    "product_name": {
+      "value": "미래에셋퇴직플랜단기증권자투자신탁1호(채권)",
+      "page": 1,
+      "evidence": "미래에셋퇴직플랜단기증권자투자신탁1호(채권)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "채권",
+      "page": 1,
+      "evidence": "미래에셋퇴직플랜단기증권자투자신탁1호(채권)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR518101012M",
+    "product_name": {
+      "value": "한국투자 퇴직연금 증권 자투자신탁 1호(국공채)",
+      "page": 1,
+      "evidence": "한국투자 퇴직연금 증권 자투자신탁 1호(국공채)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "국공채",
+      "page": 1,
+      "evidence": "한국투자 퇴직연금 증권 자투자신탁 1호(국공채)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 5,
+      "page": 1,
+      "evidence": "낮은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR518102001M",
+    "product_name": {
+      "value": "미래에셋퇴직플랜증권자투자신탁1호(주식)",
+      "page": 1,
+      "evidence": "미래에셋퇴직플랜증권자투자신탁1호(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "미래에셋퇴직플랜증권자투자신탁1호(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5185450009",
+    "product_name": {
+      "value": "키움 차세대모빌리티 증권 자투자신탁 제1호[주식]",
+      "page": 1,
+      "evidence": "키움 차세대모빌리티 증권 자투자신탁 제1호[주식]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "키움 차세대모빌리티 증권 자투자신탁 제1호[주식]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR5194450018",
+    "product_name": {
+      "value": "스팍스한국엄선투자증권자투자신탁[주식] [AY119]",
+      "page": 1,
+      "evidence": "스팍스한국엄선투자증권자투자신탁[주식] [AY119]",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "스팍스한국엄선투자증권자투자신탁[주식] [AY119]",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  },
+  {
+    "product_code": "KR555202013M",
+    "product_name": {
+      "value": "베어링 고배당 증권 투자회사(주식)",
+      "page": 1,
+      "evidence": "베어링 고배당 증권 투자회사(주식)",
+      "method": "name_regex",
+      "confidence": 1.0
+    },
+    "asset_type": {
+      "value": "주식",
+      "page": 1,
+      "evidence": "베어링 고배당 증권 투자회사(주식)",
+      "method": "bracket_vocab_match",
+      "confidence": 1.0
+    },
+    "risk_level": {
+      "value": 2,
+      "page": 1,
+      "evidence": "높은위험",
+      "method": "risk_table_regex",
+      "confidence": 1.0
+    },
+    "classes": null
+  }
+]

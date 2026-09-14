@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "errors": [],
+  "products": 100,
+  "funds": 92,
+  "class_mapping": {
+    "EXACT_NORMALIZED_MATCH": 1123,
+    "NEW_CLASS": 47,
+    "AMBIGUOUS": 2
+  },
+  "yearly_outliers_quarantined": 1,
+  "rag_chunks": 10130
+}

@@ -8,7 +8,16 @@
     "audit:questions": "node src/run_question_coverage_audit.js",
     "extract:class-inception": "node src/extract_mirae_class_inception.js && node src/extract_kyobo_class_inception.js && node src/extract_daol_class_inception.js && node src/extract_ds_class_inception.js && node src/extract_midas_class_inception.js && node src/extract_barings_class_inception.js && node src/extract_vi_class_inception.js && node src/extract_samsung_class_inception.js && node src/extract_sparx_class_inception.js && node src/extract_shinyoung_class_inception.js && node src/extract_shinhan_class_inception.js && node src/extract_assetplus_class_inception.js && node src/extract_woori_class_inception.js && node src/extract_eugene_class_inception.js && node src/extract_koreit_class_inception.js && node src/extract_kiwoom_class_inception.js && node src/extract_truston_class_inception.js && node src/extract_hana_class_inception.js && node src/extract_kivalue_class_inception.js && node src/extract_hankook_class_inception.js && node src/extract_hanwha_class_inception.js && node src/extract_heungkuk_class_inception.js && node src/extract_db_class_inception.js && node src/extract_kb_class_inception.js && node src/extract_kcgi_class_inception.js && node src/extract_nh_amundi_class_inception.js && node src/extract_vip_class_inception.js",
     "audit:midas-tables": "node src/run_table_audit.js",
-    "extract:chunks": "node src/run_chunks.js"
+    "extract:chunks": "node src/run_chunks.js",
+    "integrate:data": "node integration/run_python.js integration/build_integrated_store.py",
+    "integrate:rag": "node integration/run_python.js integration/build_integrated_rag.py",
+    "validate:integration": "node integration/run_python.js integration/validate_integration.py",
+    "validate:runtime": "node integration/run_python.js scripts/verify_data.py",
+    "integrate:runtime": "node integration/run_python.js integration/build_runtime.py",
+    "integrate:vector": "node integration/run_python.js scripts/build_vector_store.py --reset",
+    "integrate:vector-flat": "node integration/run_python.js integration/build_flat_vector_store.py",
+    "integrate": "npm run integrate:data && npm run integrate:rag && npm run validate:integration",
+    "integrate:all": "npm run integrate && npm run integrate:runtime && npm run integrate:vector-flat"
   },
   "dependencies": {
     "@napi-rs/canvas": "1.0.8",

@@ -1,0 +1,40 @@
+[
+  {
+    "page": 1,
+    "table_index": 0,
+    "rows": 1,
+    "cols": 2,
+    "data": [
+      [
+        "[업무매뉴얼] 퇴직연금 부담금 입금",
+        ""
+      ]
+    ],
+    "doc_id": "doc6",
+    "doc_type": "institution",
+    "source_doc": "doc6.docx"
+  },
+  {
+    "page": 1,
+    "table_index": 1,
+    "rows": 3,
+    "cols": 2,
+    "data": [
+      [
+        "부담금유형",
+        "설명"
+      ],
+      [
+        "가입자부담금",
+        "가입자가 직접 납입하는 금액\n(연간 1,800만원까지 납입가능/연금저축 납입금액 합산하여 최대 연 900만원까지 세액공제 가능)"
+      ],
+      [
+        "만기ISA전환금",
+        "만기 해지된 ISA 지급액을 개인IRP로 전환입금한 금액"
+      ]
+    ],
+    "doc_id": "doc6",
+    "doc_type": "institution",
+    "source_doc": "doc6.docx"
+  }
+]

@@ -1,0 +1,2659 @@
+[
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 5715.0,
+        "pct": 97.59
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 141.0,
+        "pct": 2.41
+      }
+    ],
+    "total_amount": 5856.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2024-12-31",
+    "product_code": "KR510902511M",
+    "page": 48,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 51981.0,
+        "pct": 95.97
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 1298.0,
+        "pct": 2.4
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 843.0,
+        "pct": 1.56
+      },
+      {
+        "asset": "기타",
+        "amount": 43.0,
+        "pct": 0.08
+      }
+    ],
+    "total_amount": 54164.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-30",
+    "product_code": "KR510902773M",
+    "page": 46,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 23446.0,
+        "pct": 97.32
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 604.0,
+        "pct": 2.51
+      },
+      {
+        "asset": "기타",
+        "amount": 43.0,
+        "pct": 0.18
+      }
+    ],
+    "total_amount": 24093.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-30",
+    "product_code": "KR510902777M",
+    "page": 49,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 45583.0,
+        "pct": 80.67
+      },
+      {
+        "asset": "어음",
+        "amount": 7332.0,
+        "pct": 12.97
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 3593.0,
+        "pct": 6.36
+      }
+    ],
+    "total_amount": 56508.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-30",
+    "product_code": "KR5110501016",
+    "page": 47,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 3534.0,
+        "pct": 96.22
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 129.0,
+        "pct": 3.51
+      },
+      {
+        "asset": "기타",
+        "amount": 10.0,
+        "pct": 0.27
+      }
+    ],
+    "total_amount": 3673.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-06-30",
+    "product_code": "KR5110601022",
+    "page": 51,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 344738.0,
+        "pct": 66.4
+      },
+      {
+        "asset": "어음",
+        "amount": 104469.0,
+        "pct": 20.12
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 30318.0,
+        "pct": 5.84
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 7636.0,
+        "pct": 1.47
+      },
+      {
+        "asset": "기타",
+        "amount": 32002.0,
+        "pct": 6.16
+      }
+    ],
+    "total_amount": 519164.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-04-16",
+    "product_code": "KR5111420047",
+    "page": 52,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 207896.0,
+        "pct": 99.52
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 895.0,
+        "pct": 0.43
+      },
+      {
+        "asset": "기타",
+        "amount": 117.0,
+        "pct": 0.06
+      }
+    ],
+    "total_amount": 208908.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-05-02",
+    "product_code": "KR5111450067",
+    "page": 58,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 209.0,
+        "pct": 93.9
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 7.0,
+        "pct": 2.99
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 4.0,
+        "pct": 1.76
+      },
+      {
+        "asset": "기타",
+        "amount": 3.0,
+        "pct": 1.35
+      }
+    ],
+    "total_amount": 223.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-02-28",
+    "product_code": "KR5113420012",
+    "page": 53,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 425.0,
+        "pct": 83.99
+      },
+      {
+        "asset": "어음",
+        "amount": 10.0,
+        "pct": 1.88
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 20.0,
+        "pct": 3.87
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 20.0,
+        "pct": 3.96
+      },
+      {
+        "asset": "기타",
+        "amount": 32.0,
+        "pct": 6.3
+      }
+    ],
+    "total_amount": 506.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-02-28",
+    "product_code": "KR5113420013",
+    "page": 59,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 425.0,
+        "pct": 83.99
+      },
+      {
+        "asset": "어음",
+        "amount": 10.0,
+        "pct": 1.88
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 20.0,
+        "pct": 3.87
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 20.0,
+        "pct": 3.96
+      },
+      {
+        "asset": "기타",
+        "amount": 32.0,
+        "pct": 6.3
+      }
+    ],
+    "total_amount": 506.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-02-28",
+    "product_code": "KR5113420015",
+    "page": 59,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 48938.0,
+        "pct": 101.32
+      },
+      {
+        "asset": "어음",
+        "amount": 11354.0,
+        "pct": 23.51
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 996.0,
+        "pct": 2.06
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 3414.0,
+        "pct": 7.07
+      },
+      {
+        "asset": "기타",
+        "amount": -16400.0,
+        "pct": -33.95
+      }
+    ],
+    "total_amount": 48302.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-11-28",
+    "product_code": "KR5113420069",
+    "page": 64,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 2336.0,
+        "pct": 93.53
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 93.0,
+        "pct": 3.72
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 48.0,
+        "pct": 1.91
+      },
+      {
+        "asset": "기타",
+        "amount": 21.0,
+        "pct": 0.85
+      }
+    ],
+    "total_amount": 2497.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-02-28",
+    "product_code": "KR5113450111",
+    "page": 54,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 406.0,
+        "pct": 70.39
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 20.0,
+        "pct": 3.5
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 146.0,
+        "pct": 25.36
+      },
+      {
+        "asset": "기타",
+        "amount": 4.0,
+        "pct": 0.76
+      }
+    ],
+    "total_amount": 577.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-08-29",
+    "product_code": "KR5113450401",
+    "page": 64,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 303.0,
+        "pct": 94.94
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 12.0,
+        "pct": 3.87
+      },
+      {
+        "asset": "기타",
+        "amount": 4.0,
+        "pct": 1.19
+      }
+    ],
+    "total_amount": 319.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-10-31",
+    "product_code": "KR5113470030",
+    "page": 57,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 303.0,
+        "pct": 94.94
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 12.0,
+        "pct": 3.87
+      },
+      {
+        "asset": "기타",
+        "amount": 4.0,
+        "pct": 1.19
+      }
+    ],
+    "total_amount": 319.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-10-31",
+    "product_code": "KR5113470031",
+    "page": 57,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 9322.0,
+        "pct": 99.33
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 20.0,
+        "pct": 0.21
+      },
+      {
+        "asset": "기타",
+        "amount": 43.0,
+        "pct": 0.46
+      }
+    ],
+    "total_amount": 9385.0,
+    "pct_derived": true,
+    "unit": "억원",
+    "as_of": "2025-03-31",
+    "product_code": "KR5114420016",
+    "page": 80,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 288.0,
+        "pct": 99.65
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 2.0,
+        "pct": 0.69
+      }
+    ],
+    "total_amount": 289.0,
+    "pct_derived": true,
+    "unit": "억원",
+    "as_of": "2024-12-31",
+    "product_code": "KR5114420022",
+    "page": 53,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 2116.0,
+        "pct": 99.91
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 2.0,
+        "pct": 0.09
+      }
+    ],
+    "total_amount": 2118.0,
+    "pct_derived": true,
+    "unit": "억원",
+    "as_of": "2025-03-31",
+    "product_code": "KR5114420027",
+    "page": 69,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 170.0,
+        "pct": 99.42
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 1.0,
+        "pct": 0.58
+      }
+    ],
+    "total_amount": 171.0,
+    "pct_derived": true,
+    "unit": "억원",
+    "as_of": "2025-09-30",
+    "product_code": "KR5114420046",
+    "page": 43,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 336.0,
+        "pct": 98.82
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 3.0,
+        "pct": 0.88
+      }
+    ],
+    "total_amount": 340.0,
+    "pct_derived": true,
+    "unit": "억원",
+    "as_of": "2024-09-30",
+    "product_code": "KR5114450222",
+    "page": 57,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 1566.0,
+        "pct": 98.18
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 28.0,
+        "pct": 1.76
+      },
+      {
+        "asset": "기타",
+        "amount": 1.0,
+        "pct": 0.06
+      }
+    ],
+    "total_amount": 1595.0,
+    "pct_derived": true,
+    "unit": "억원",
+    "as_of": "2025-09-30",
+    "product_code": "KR5114450270",
+    "page": 44,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 391.0,
+        "pct": 99.59
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 2.0,
+        "pct": 0.41
+      }
+    ],
+    "total_amount": 393.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2020-12-25",
+    "product_code": "KR5116501001",
+    "page": 42,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 4202.0,
+        "pct": 19.15
+      },
+      {
+        "asset": "어음",
+        "amount": 17738.0,
+        "pct": 80.84
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 3.0,
+        "pct": 0.02
+      }
+    ],
+    "total_amount": 21943.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-07-31",
+    "product_code": "KR5117420097",
+    "page": 40,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 24722.2,
+        "pct": 62.16
+      },
+      {
+        "asset": "어음",
+        "amount": 13441.0,
+        "pct": 33.79
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 354.2,
+        "pct": 0.89
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 1240.8,
+        "pct": 3.12
+      },
+      {
+        "asset": "기타",
+        "amount": 14.9,
+        "pct": 0.04
+      }
+    ],
+    "total_amount": 39773.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-10-26",
+    "product_code": "KR5118201004",
+    "page": 54,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 3267.7,
+        "pct": 23.24
+      },
+      {
+        "asset": "어음",
+        "amount": 9745.0,
+        "pct": 69.3
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 642.0,
+        "pct": 4.57
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 407.2,
+        "pct": 2.9
+      }
+    ],
+    "total_amount": 14061.9,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-10-21",
+    "product_code": "KR5118420006",
+    "page": 47,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 205.7,
+        "pct": 99.99
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 0.0,
+        "pct": 0.01
+      }
+    ],
+    "total_amount": 205.7,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-01-16",
+    "product_code": "KR5118420036",
+    "page": 56,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 7944.1,
+        "pct": 24.92
+      },
+      {
+        "asset": "어음",
+        "amount": 21897.6,
+        "pct": 68.69
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 336.7,
+        "pct": 1.06
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 1698.9,
+        "pct": 5.33
+      },
+      {
+        "asset": "기타",
+        "amount": 0.3,
+        "pct": 0.0
+      }
+    ],
+    "total_amount": 31877.6,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-09-15",
+    "product_code": "KR5118420062",
+    "page": 47,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 112.0,
+        "pct": 95.51
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 4.0,
+        "pct": 3.73
+      },
+      {
+        "asset": "기타",
+        "amount": 1.0,
+        "pct": 0.76
+      }
+    ],
+    "total_amount": 117.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-01-31",
+    "product_code": "KR5119450058",
+    "page": 50,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 24.0,
+        "pct": 97.17
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 1.0,
+        "pct": 2.83
+      }
+    ],
+    "total_amount": 25.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-07-31",
+    "product_code": "KR5119501001",
+    "page": 35,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 454.0,
+        "pct": 97.77
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 10.0,
+        "pct": 2.23
+      }
+    ],
+    "total_amount": 465.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-01-31",
+    "product_code": "KR5119520012",
+    "page": 50,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 1767339.0,
+        "pct": 85.52
+      },
+      {
+        "asset": "어음",
+        "amount": 162703.0,
+        "pct": 7.87
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 22794.0,
+        "pct": 1.1
+      },
+      {
+        "asset": "파생상품(장내)",
+        "amount": 65.0,
+        "pct": 0.0
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 113712.0,
+        "pct": 5.5
+      },
+      {
+        "asset": "기타",
+        "amount": 3.0,
+        "pct": 0.0
+      }
+    ],
+    "total_amount": 2066617.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-04",
+    "product_code": "KR5120420039",
+    "page": 62,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 226846.0,
+        "pct": 54.45
+      },
+      {
+        "asset": "어음",
+        "amount": 153258.0,
+        "pct": 36.79
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 26578.0,
+        "pct": 6.38
+      },
+      {
+        "asset": "기타",
+        "amount": 9901.0,
+        "pct": 2.38
+      }
+    ],
+    "total_amount": 416583.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2024-12-20",
+    "product_code": "KR5120420091",
+    "page": 62,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 305746.0,
+        "pct": 96.69
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 32.0,
+        "pct": 0.01
+      },
+      {
+        "asset": "기타",
+        "amount": 10450.0,
+        "pct": 3.3
+      }
+    ],
+    "total_amount": 316227.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2024-12-18",
+    "product_code": "KR5120450015",
+    "page": 69,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 305746.0,
+        "pct": 96.69
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 32.0,
+        "pct": 0.01
+      },
+      {
+        "asset": "기타",
+        "amount": 10450.0,
+        "pct": 3.3
+      }
+    ],
+    "total_amount": 316227.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2024-12-18",
+    "product_code": "KR5120450018",
+    "page": 69,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 18592.0,
+        "pct": 99.23
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 84.0,
+        "pct": 0.45
+      },
+      {
+        "asset": "기타",
+        "amount": 61.0,
+        "pct": 0.32
+      }
+    ],
+    "total_amount": 18737.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-06-03",
+    "product_code": "KR5120451001",
+    "page": 56,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 20095.0,
+        "pct": 96.54
+      },
+      {
+        "asset": "기타",
+        "amount": 719.0,
+        "pct": 3.46
+      }
+    ],
+    "total_amount": 20815.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-12-03",
+    "product_code": "KR5122420005",
+    "page": 54,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 6.3,
+        "pct": 99.82
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 0.0,
+        "pct": 0.18
+      }
+    ],
+    "total_amount": 6.3,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-02-22",
+    "product_code": "KR5123365001",
+    "page": 33,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 761.9,
+        "pct": 99.88
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 0.9,
+        "pct": 0.12
+      }
+    ],
+    "total_amount": 762.9,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-02-26",
+    "product_code": "KR5123420015",
+    "page": 43,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 416.8,
+        "pct": 96.87
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 13.5,
+        "pct": 3.13
+      }
+    ],
+    "total_amount": 430.3,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2024-01-20",
+    "product_code": "KR5123420039",
+    "page": 40,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 9382.9,
+        "pct": 38.04
+      },
+      {
+        "asset": "어음",
+        "amount": 13355.2,
+        "pct": 54.15
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 829.1,
+        "pct": 3.36
+      },
+      {
+        "asset": "파생상품(장내)",
+        "amount": 0.1,
+        "pct": 0.0
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 1098.0,
+        "pct": 4.45
+      }
+    ],
+    "total_amount": 24665.2,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2024-12-12",
+    "product_code": "KR5123420049",
+    "page": 42,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 186.7,
+        "pct": 95.67
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 8.4,
+        "pct": 4.32
+      },
+      {
+        "asset": "기타",
+        "amount": 0.0,
+        "pct": 0.01
+      }
+    ],
+    "total_amount": 195.2,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2017-09-29",
+    "product_code": "KR5123490013",
+    "page": 52,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 186.7,
+        "pct": 95.67
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 8.4,
+        "pct": 4.32
+      },
+      {
+        "asset": "기타",
+        "amount": 0.0,
+        "pct": 0.01
+      }
+    ],
+    "total_amount": 195.2,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2017-09-29",
+    "product_code": "KR5123490016",
+    "page": 52,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 186.7,
+        "pct": 95.67
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 8.4,
+        "pct": 4.32
+      },
+      {
+        "asset": "기타",
+        "amount": 0.0,
+        "pct": 0.01
+      }
+    ],
+    "total_amount": 195.2,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2017-09-29",
+    "product_code": "KR5123490017",
+    "page": 52,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 1108509.0,
+        "pct": 99.53
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 418.0,
+        "pct": 0.04
+      },
+      {
+        "asset": "기타",
+        "amount": 4838.0,
+        "pct": 0.43
+      }
+    ],
+    "total_amount": 1113765.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-05-25",
+    "product_code": "KR5125450023",
+    "page": 46,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 420717.0,
+        "pct": 99.55
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 84.0,
+        "pct": 0.02
+      },
+      {
+        "asset": "기타",
+        "amount": 1820.0,
+        "pct": 0.43
+      }
+    ],
+    "total_amount": 422621.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-04-24",
+    "product_code": "KR5125450070",
+    "page": 44,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 1773.0,
+        "pct": 112.7
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 77.0,
+        "pct": 4.88
+      },
+      {
+        "asset": "기타",
+        "amount": -277.0,
+        "pct": -17.58
+      }
+    ],
+    "total_amount": 1574.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2024-12-31",
+    "product_code": "KR5127420034",
+    "page": 37,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 1773.0,
+        "pct": 112.7
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 77.0,
+        "pct": 4.88
+      },
+      {
+        "asset": "기타",
+        "amount": -277.0,
+        "pct": -17.58
+      }
+    ],
+    "total_amount": 1574.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2024-12-31",
+    "product_code": "KR5127420039",
+    "page": 37,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 884.0,
+        "pct": 106.21
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 101.0,
+        "pct": 12.14
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 42.0,
+        "pct": 5.04
+      },
+      {
+        "asset": "기타",
+        "amount": -195.0,
+        "pct": -23.39
+      }
+    ],
+    "total_amount": 833.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-08-20",
+    "product_code": "KR5127420045",
+    "page": 39,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 770.0,
+        "pct": 127.22
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 42.0,
+        "pct": 6.91
+      },
+      {
+        "asset": "기타",
+        "amount": -207.0,
+        "pct": -34.13
+      }
+    ],
+    "total_amount": 605.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-09-07",
+    "product_code": "KR5127420083",
+    "page": 37,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 937.0,
+        "pct": 90.55
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 5.0,
+        "pct": 0.43
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 95.0,
+        "pct": 9.14
+      },
+      {
+        "asset": "기타",
+        "amount": -1.0,
+        "pct": -0.13
+      }
+    ],
+    "total_amount": 1034.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-11-04",
+    "product_code": "KR5127450117",
+    "page": 39,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 600.0,
+        "pct": 51.33
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 307.0,
+        "pct": 26.24
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 257.0,
+        "pct": 22.03
+      },
+      {
+        "asset": "기타",
+        "amount": 5.0,
+        "pct": 0.39
+      }
+    ],
+    "total_amount": 1168.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-05-17",
+    "product_code": "KR5127450215",
+    "page": 40,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 600.0,
+        "pct": 51.33
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 307.0,
+        "pct": 26.24
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 257.0,
+        "pct": 22.03
+      },
+      {
+        "asset": "기타",
+        "amount": 5.0,
+        "pct": 0.39
+      }
+    ],
+    "total_amount": 1168.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-05-17",
+    "product_code": "KR5127450217",
+    "page": 40,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 157.0,
+        "pct": 84.95
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 37.0,
+        "pct": 19.89
+      },
+      {
+        "asset": "기타",
+        "amount": -9.0,
+        "pct": -4.84
+      }
+    ],
+    "total_amount": 185.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-11-05",
+    "product_code": "KR5127450473",
+    "page": 40,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 387422.0,
+        "pct": 78.58
+      },
+      {
+        "asset": "어음",
+        "amount": 71843.0,
+        "pct": 14.57
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 14832.0,
+        "pct": 3.01
+      },
+      {
+        "asset": "파생상품(장내)",
+        "amount": 5.0,
+        "pct": 0.0
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 18940.0,
+        "pct": 3.84
+      }
+    ],
+    "total_amount": 493040.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-03-09",
+    "product_code": "KR5129420025",
+    "page": 65,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 293848.0,
+        "pct": 97.41
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 7798.0,
+        "pct": 2.59
+      }
+    ],
+    "total_amount": 301645.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-11-06",
+    "product_code": "KR5129420031",
+    "page": 56,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 112808.0,
+        "pct": 99.0
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 1141.0,
+        "pct": 1.0
+      }
+    ],
+    "total_amount": 113949.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-07-18",
+    "product_code": "KR5131420007",
+    "page": 38,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 195273.0,
+        "pct": 71.3
+      },
+      {
+        "asset": "어음",
+        "amount": 39368.0,
+        "pct": 14.37
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 29749.0,
+        "pct": 10.86
+      },
+      {
+        "asset": "기타",
+        "amount": 9504.0,
+        "pct": 3.47
+      }
+    ],
+    "total_amount": 273894.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-12-27",
+    "product_code": "KR5131420025",
+    "page": 35,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 155075.0,
+        "pct": 99.5
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 79.0,
+        "pct": 0.05
+      },
+      {
+        "asset": "기타",
+        "amount": 700.0,
+        "pct": 0.45
+      }
+    ],
+    "total_amount": 155854.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-06-25",
+    "product_code": "KR5139420015",
+    "page": 45,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 79995.0,
+        "pct": 99.41
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 78.0,
+        "pct": 0.1
+      },
+      {
+        "asset": "기타",
+        "amount": 400.0,
+        "pct": 0.5
+      }
+    ],
+    "total_amount": 80473.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-29",
+    "product_code": "KR5139420020",
+    "page": 38,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 4127.0,
+        "pct": 97.29
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 24.0,
+        "pct": 0.56
+      },
+      {
+        "asset": "기타",
+        "amount": 91.0,
+        "pct": 2.15
+      }
+    ],
+    "total_amount": 4242.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-08-31",
+    "product_code": "KR5144420020",
+    "page": 56,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 1182.0,
+        "pct": 97.16
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 29.0,
+        "pct": 2.36
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 4.0,
+        "pct": 0.33
+      },
+      {
+        "asset": "기타",
+        "amount": 2.0,
+        "pct": 0.15
+      }
+    ],
+    "total_amount": 1217.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-01-24",
+    "product_code": "KR5144420081",
+    "page": 58,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 4260.0,
+        "pct": 59.02
+      },
+      {
+        "asset": "어음",
+        "amount": 2151.0,
+        "pct": 29.8
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 115.0,
+        "pct": 1.59
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 32.0,
+        "pct": 0.44
+      },
+      {
+        "asset": "기타",
+        "amount": 661.0,
+        "pct": 9.16
+      }
+    ],
+    "total_amount": 7218.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-09-13",
+    "product_code": "KR5144420091",
+    "page": 52,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 5243.0,
+        "pct": 87.76
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 12.0,
+        "pct": 0.2
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 713.0,
+        "pct": 11.94
+      },
+      {
+        "asset": "기타",
+        "amount": 6.0,
+        "pct": 0.1
+      }
+    ],
+    "total_amount": 5975.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-08-13",
+    "product_code": "KR5144450095",
+    "page": 54,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 10116.0,
+        "pct": 37.81
+      },
+      {
+        "asset": "어음",
+        "amount": 3931.0,
+        "pct": 14.69
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 12011.0,
+        "pct": 44.89
+      },
+      {
+        "asset": "기타",
+        "amount": 700.0,
+        "pct": 2.62
+      }
+    ],
+    "total_amount": 26758.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-01-12",
+    "product_code": "KR5152420028",
+    "page": 39,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 5375.0,
+        "pct": 84.63
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 5.0,
+        "pct": 0.08
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 6.0,
+        "pct": 0.09
+      },
+      {
+        "asset": "기타",
+        "amount": 965.0,
+        "pct": 15.19
+      }
+    ],
+    "total_amount": 6351.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-07-07",
+    "product_code": "KR515302022M",
+    "page": 53,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 67717.0,
+        "pct": 93.79
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 1012.0,
+        "pct": 1.4
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 3468.0,
+        "pct": 4.8
+      }
+    ],
+    "total_amount": 72197.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2020-12-31",
+    "product_code": "KR5153420022",
+    "page": 46,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 4001.0,
+        "pct": 87.96
+      },
+      {
+        "asset": "어음",
+        "amount": 266.0,
+        "pct": 5.85
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 282.0,
+        "pct": 6.19
+      }
+    ],
+    "total_amount": 4549.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2024-12-31",
+    "product_code": "KR5153420063",
+    "page": 42,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 859749.0,
+        "pct": 91.76
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 18787.0,
+        "pct": 2.01
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 58457.0,
+        "pct": 6.24
+      }
+    ],
+    "total_amount": 936993.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-06-30",
+    "product_code": "KR5153420079",
+    "page": 45,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 72331.0,
+        "pct": 91.19
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 1383.0,
+        "pct": 1.74
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 5604.0,
+        "pct": 7.07
+      }
+    ],
+    "total_amount": 79317.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-30",
+    "product_code": "KR5153420105",
+    "page": 48,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 8588.0,
+        "pct": 96.31
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 219.0,
+        "pct": 2.45
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 111.0,
+        "pct": 1.24
+      }
+    ],
+    "total_amount": 8916.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-30",
+    "product_code": "KR5153420318",
+    "page": 50,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 10385.0,
+        "pct": 98.14
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 104.0,
+        "pct": 0.98
+      },
+      {
+        "asset": "기타",
+        "amount": 93.0,
+        "pct": 0.88
+      }
+    ],
+    "total_amount": 10581.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2024-12-31",
+    "product_code": "KR5153450009",
+    "page": 35,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 120155.0,
+        "pct": 74.88
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 34612.0,
+        "pct": 21.57
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 2046.0,
+        "pct": 1.27
+      },
+      {
+        "asset": "기타",
+        "amount": 3654.0,
+        "pct": 2.28
+      }
+    ],
+    "total_amount": 160467.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-03-31",
+    "product_code": "KR5153450112",
+    "page": 71,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 23241.0,
+        "pct": 97.46
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 565.0,
+        "pct": 2.37
+      },
+      {
+        "asset": "기타",
+        "amount": 41.0,
+        "pct": 0.17
+      }
+    ],
+    "total_amount": 23848.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-06-30",
+    "product_code": "KR5153450209",
+    "page": 35,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 46420.0,
+        "pct": 94.79
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 1104.0,
+        "pct": 2.26
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 1310.0,
+        "pct": 2.67
+      },
+      {
+        "asset": "기타",
+        "amount": 139.0,
+        "pct": 0.28
+      }
+    ],
+    "total_amount": 48973.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-06-30",
+    "product_code": "KR5153450250",
+    "page": 35,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 11994.0,
+        "pct": 70.62
+      },
+      {
+        "asset": "채권",
+        "amount": 2553.0,
+        "pct": 15.03
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 1004.0,
+        "pct": 5.91
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 1433.0,
+        "pct": 8.44
+      }
+    ],
+    "total_amount": 16984.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-30",
+    "product_code": "KR5153450268",
+    "page": 50,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 5313.0,
+        "pct": 80.25
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 1191.0,
+        "pct": 17.98
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 98.0,
+        "pct": 1.48
+      },
+      {
+        "asset": "기타",
+        "amount": 19.0,
+        "pct": 0.29
+      }
+    ],
+    "total_amount": 6620.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-06-30",
+    "product_code": "KR5153450431",
+    "page": 47,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 1778.0,
+        "pct": 89.93
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 199.0,
+        "pct": 10.07
+      }
+    ],
+    "total_amount": 1976.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-30",
+    "product_code": "KR5153450658",
+    "page": 51,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 24225.0,
+        "pct": 96.35
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 412.0,
+        "pct": 1.64
+      },
+      {
+        "asset": "기타",
+        "amount": 506.0,
+        "pct": 2.01
+      }
+    ],
+    "total_amount": 25142.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-03-31",
+    "product_code": "KR5153450772",
+    "page": 50,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 989435.0,
+        "pct": 95.48
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 26440.0,
+        "pct": 2.55
+      },
+      {
+        "asset": "기타",
+        "amount": 20353.0,
+        "pct": 1.96
+      }
+    ],
+    "total_amount": 1036228.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-12-31",
+    "product_code": "KR5153450785",
+    "page": 49,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 5213.0,
+        "pct": 81.7
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 778.0,
+        "pct": 12.2
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 346.0,
+        "pct": 5.43
+      },
+      {
+        "asset": "기타",
+        "amount": 43.0,
+        "pct": 0.68
+      }
+    ],
+    "total_amount": 6380.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2024-12-31",
+    "product_code": "KR5153450791",
+    "page": 35,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 5007.0,
+        "pct": 97.07
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 78.0,
+        "pct": 1.5
+      },
+      {
+        "asset": "기타",
+        "amount": 73.0,
+        "pct": 1.42
+      }
+    ],
+    "total_amount": 5153.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-30",
+    "product_code": "KR5153451009",
+    "page": 47,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 108460.0,
+        "pct": 81.47
+      },
+      {
+        "asset": "어음",
+        "amount": 2427.0,
+        "pct": 1.82
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 2518.0,
+        "pct": 1.89
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 19722.0,
+        "pct": 14.81
+      }
+    ],
+    "total_amount": 133126.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-09-30",
+    "product_code": "KR5153520012",
+    "page": 39,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 551892.0,
+        "pct": 96.52
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 345.0,
+        "pct": 0.06
+      },
+      {
+        "asset": "기타",
+        "amount": 19533.0,
+        "pct": 3.42
+      }
+    ],
+    "total_amount": 571770.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-12-31",
+    "product_code": "KR5156450026",
+    "page": 45,
+    "method": "pdf_text_rows"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 292427.0,
+        "pct": 99.14
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 2528.0,
+        "pct": 0.86
+      }
+    ],
+    "total_amount": 294955.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-07-29",
+    "product_code": "KR5157420003",
+    "page": 51,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 467477.0,
+        "pct": 91.85
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 25803.0,
+        "pct": 5.07
+      },
+      {
+        "asset": "기타",
+        "amount": 15697.0,
+        "pct": 3.08
+      }
+    ],
+    "total_amount": 508978.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-04-19",
+    "product_code": "KR5157450017",
+    "page": 51,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 97928.0,
+        "pct": 98.23
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 1142.0,
+        "pct": 1.15
+      },
+      {
+        "asset": "기타",
+        "amount": 624.0,
+        "pct": 0.63
+      }
+    ],
+    "total_amount": 99695.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-10-01",
+    "product_code": "KR5157450090",
+    "page": 67,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 1061552.0,
+        "pct": 64.56
+      },
+      {
+        "asset": "어음",
+        "amount": 381094.0,
+        "pct": 23.18
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 110.0,
+        "pct": 0.01
+      },
+      {
+        "asset": "기타",
+        "amount": 201417.0,
+        "pct": 12.25
+      }
+    ],
+    "total_amount": 1644172.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2024-12-12",
+    "product_code": "KR5160420009",
+    "page": 43,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 695.0,
+        "pct": 96.39
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 23.0,
+        "pct": 3.18
+      },
+      {
+        "asset": "기타",
+        "amount": 3.0,
+        "pct": 0.43
+      }
+    ],
+    "total_amount": 721.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-05-20",
+    "product_code": "KR516702010M",
+    "page": 32,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 713.0,
+        "pct": 98.79
+      },
+      {
+        "asset": "기타",
+        "amount": 9.0,
+        "pct": 1.21
+      }
+    ],
+    "total_amount": 721.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-07-11",
+    "product_code": "KR5169950018",
+    "page": 54,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 47142.0,
+        "pct": 97.39
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 24.0,
+        "pct": 0.05
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 227.0,
+        "pct": 0.47
+      },
+      {
+        "asset": "기타",
+        "amount": 1013.0,
+        "pct": 2.09
+      }
+    ],
+    "total_amount": 48406.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-03-31",
+    "product_code": "KR5172450019",
+    "page": 40,
+    "method": "pdf_simple_text"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 468.0,
+        "pct": 98.37
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 8.0,
+        "pct": 1.63
+      }
+    ],
+    "total_amount": 476.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2024-12-31",
+    "product_code": "KR5174420011",
+    "page": 37,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 876.0,
+        "pct": 79.52
+      },
+      {
+        "asset": "어음",
+        "amount": 51.0,
+        "pct": 4.64
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 52.0,
+        "pct": 4.72
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 123.0,
+        "pct": 11.13
+      }
+    ],
+    "total_amount": 1101.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-06-30",
+    "product_code": "KR518101002M",
+    "page": 40,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "채권",
+        "amount": 1597.0,
+        "pct": 86.52
+      },
+      {
+        "asset": "어음",
+        "amount": 339.0,
+        "pct": 18.38
+      },
+      {
+        "asset": "집합투자증권",
+        "amount": 206.0,
+        "pct": 11.16
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 174.0,
+        "pct": 9.41
+      },
+      {
+        "asset": "기타",
+        "amount": -470.0,
+        "pct": -25.47
+      }
+    ],
+    "total_amount": 1845.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-02-28",
+    "product_code": "KR518101012M",
+    "page": 47,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 10385.0,
+        "pct": 98.14
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 104.0,
+        "pct": 0.98
+      },
+      {
+        "asset": "기타",
+        "amount": 93.0,
+        "pct": 0.88
+      }
+    ],
+    "total_amount": 10581.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2024-12-31",
+    "product_code": "KR518102001M",
+    "page": 35,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 1094.5,
+        "pct": 98.86
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 1.6,
+        "pct": 0.14
+      },
+      {
+        "asset": "기타",
+        "amount": 11.1,
+        "pct": 1.0
+      }
+    ],
+    "total_amount": 1107.1,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2018-01-29",
+    "product_code": "KR5185450009",
+    "page": 46,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "집합투자증권",
+        "amount": 90.0,
+        "pct": 99.73
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 0.0,
+        "pct": 0.27
+      }
+    ],
+    "total_amount": 90.0,
+    "pct_derived": false,
+    "unit": "억원",
+    "as_of": "2025-01-15",
+    "product_code": "KR5194450018",
+    "page": 51,
+    "method": "cell_grid"
+  },
+  {
+    "items": [
+      {
+        "asset": "주식",
+        "amount": 128264.0,
+        "pct": 96.49
+      },
+      {
+        "asset": "단기대출및예금",
+        "amount": 234.0,
+        "pct": 0.18
+      },
+      {
+        "asset": "기타",
+        "amount": 4436.0,
+        "pct": 3.34
+      }
+    ],
+    "total_amount": 132934.0,
+    "pct_derived": false,
+    "unit": "백만원",
+    "as_of": "2025-03-10",
+    "product_code": "KR555202013M",
+    "page": 35,
+    "method": "pdf_text_rows"
+  }
+]

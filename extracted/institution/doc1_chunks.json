@@ -1,0 +1,29 @@
+[
+  {
+    "chunk_id": "doc1.pdf_0001",
+    "source_doc": "doc1.pdf",
+    "page": 1,
+    "text": "[업무매뉴얼] 개인연금저축, 연금저축계좌 개요 및 주요 특징\n\n1. 개인연금 업무 개요\n가. 개인연금저축: 2000.12.31 이전에 개설된 계좌\n나. 연금저축계좌(구): 최초가입일이 2001.1~2013.2.28인 계좌로 수관 또는 전환된 계좌\n- 최초 연금개시 가능한 해에 연금수령연차 6년차부터 시작\n다. 연금저축계좌(신): 최초가입일이 2013.3.10이후인 계좌로 신규 개설/수관/전환된 계좌\n- 최초 연금개시 가능한 해에 연금수령연차 1년차부터 시작\n\n2. 개인연금의 주요 특징\n가. 개인연금저축 (표 참조)\n나. 연금저축계좌 (표 계속, 다음 페이지에 이어짐)",
+    "doc_id": "doc1",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc1.pdf_0002",
+    "source_doc": "doc1.pdf",
+    "page": 2,
+    "text": "나. 연금저축계좌 (1페이지에서 이어짐)",
+    "doc_id": "doc1",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc1.pdf_0003",
+    "source_doc": "doc1.pdf",
+    "page": 3,
+    "text": "나. 연금저축계좌 (2페이지에서 이어짐, 계속)",
+    "doc_id": "doc1",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  }
+]

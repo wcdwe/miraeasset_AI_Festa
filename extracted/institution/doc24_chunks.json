@@ -1,0 +1,146 @@
+[
+  {
+    "chunk_id": "doc24.pdf_0001",
+    "source_doc": "doc24.pdf",
+    "page": 1,
+    "text": "M-STOCK 퇴직연금 모바일 유상청약 가이드\nMIRAE ASSET 미래에셋증권",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0002",
+    "source_doc": "doc24.pdf",
+    "page": 2,
+    "text": "1. 퇴직연금 유상청약 신청",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0003",
+    "source_doc": "doc24.pdf",
+    "page": 3,
+    "text": "1. 유상청약 신청\n1) 메뉴 < 연금 < 연금 < 퇴직연금 유상청약\n(M-STOCK 앱 화면: 메뉴 > 연금 탭 > 연금 메뉴에서 '퇴직연금 유상청약' 클릭)",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0004",
+    "source_doc": "doc24.pdf",
+    "page": 4,
+    "text": "1. 유상청약 신청\n2) 계좌번호 선택 후 유상청약 신청\n- 퇴직연금 제도 별 DB, DC가입자, IRP가입자 별 유상청약 대상계좌 선택\n- 유상청약 대상 종목이 여러 개인 경우 여러 건 조회되며, 청약 대상 종목 확인 후 청약신청\n(화면 예시: 신한알파리츠보통주, 청약단가 6,100원, 청약배정수량 9주, 청약기간 2023.04.06~2023.04.11, '청약신청' 버튼 클릭)",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0005",
+    "source_doc": "doc24.pdf",
+    "page": 5,
+    "text": "1. 유상청약 신청\n3) 유상청약 상세정보 확인\n- 청약기간, 기준일자, 상장종목명, 본청약수량, 본배정금액 확인 후 청약 신청\n(화면 예시: 신한알파리츠보통주 A293940, 청약기간 2023.04.06~2023.04.11, 기준일자 2023.03.20, 청약단가 6,100원, 본배정수량 9주, 본배정금액 54,900원. 퇴직연금 계좌에서는 초과청약이 불가합니다. '청약신청' 버튼 클릭)",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0006",
+    "source_doc": "doc24.pdf",
+    "page": 6,
+    "text": "1. 유상청약 신청\n4) 유상청약 수량 신청\n- 실제청약가능수량 범위 내에서 청약수량 입력 후 공매도 유의사항 확인 후 다음 버튼 클릭\n(화면 예시: 청약가능 금액 872,229원, 신한알파리츠보통주 청약단가 6,100원, 청약배정수량 9주, 위험한도반영 청약가능수량 142주, 보유현금반영 청약가능수량 142주, 실제청약가능수량 9주. 청약종료일은 15시에 청약업무가 마감되오니 유의. 청약수량을 청약가능금액으로 계산된 실제청약가능수량 범위 내 입력, 공매도 거래자의 유상증자 참여제한 안내 확인 후 '다음' 클릭)",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0007",
+    "source_doc": "doc24.pdf",
+    "page": 7,
+    "text": "1. 유상청약 신청\n5) 유상청약 신청 완료\n- 유상청약 신청내역 확인(종목명, 청약일, 청약수량, 청약금액)\n(화면 예시: '퇴직연금 유상청약 신청이 완료 되었습니다.' 종목명 신한알파리츠보통주, 청약일 2023.03.20, 청약수량 5주, 청약금액 30,500원)",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0008",
+    "source_doc": "doc24.pdf",
+    "page": 8,
+    "text": "2. 퇴직연금 유상청약 신청 내역조회/취소",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0009",
+    "source_doc": "doc24.pdf",
+    "page": 9,
+    "text": "2. 유상청약 신청 내역조회/취소\n1) 메뉴 < 연금 < 연금 < 퇴직연금 유상청약 < 내역조회/취소\n- 퇴직연금 제도 별 DB, DC가입자, IRP가입자 별 유상청약 대상계좌 선택\n- 청약 신청내역을 확인하거나 취소하는 화면으로 여러 건 신청한 경우 모두 표기됨\n(화면 예시: 신한알파리츠보통주, 청약일 2023.04.11, 청약주수 5주, 청약금액 30,500원. 유상청약 신청 내역으로 청약 기간동안 유효하며 청약기간 내 취소 가능)",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0010",
+    "source_doc": "doc24.pdf",
+    "page": 10,
+    "text": "2. 유상청약 신청 내역조회/취소\n2) 유상청약 신청 취소\n- 유상청약 신청 상세내역 확인\n- 취소를 원하는 경우 청약취소 클릭, 확인 버튼 클릭 시 화면 닫기\n(화면 예시: 내역조회/취소 상세 - 신한알파리츠보통주, 청약일 2023.04.11, 청약단가 6,100원, 청약수량 5주, 청약금액 30,500원, 청약시작일 2023.04.06, 청약종료일 2023.04.11. 취소의 경우 '청약취소' 클릭)",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0011",
+    "source_doc": "doc24.pdf",
+    "page": 11,
+    "text": "2. 유상청약 신청 내역조회/취소\n3) 유상청약 신청 취소\n- 청약을 취소할지 재확인하는 화면으로 확인 클릭 시 청약취소 처리\n(화면 예시: '청약을 취소하시겠습니까?' 팝업에서 '확인' 클릭 - 유상청약 취소의 경우 Click(취소 여부 재확인))",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0012",
+    "source_doc": "doc24.pdf",
+    "page": 12,
+    "text": "2. 유상청약 신청 내역조회/취소\n4) 유상청약 신청 취소\n- 유상청약이 정상적으로 취소 처리된 것을 확인하는 화면\n(화면 예시: '퇴직연금 유상청약 취소가 완료 되었습니다.' 종목명 신한알파리츠보통주, 청약일 2023.04.11, 청약수량 5주, 청약금액 30,500원. '확인' 클릭하여 유상청약 취소 확인)",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0013",
+    "source_doc": "doc24.pdf",
+    "page": 13,
+    "text": "2. 유상청약 신청 내역조회/취소\n5) 유상청약 신청 취소\n- 내역조회/취소 내역에 \"청약취소\"를 표기하여 취소거래와 정상거래 구분\n(화면 예시: 신한알파리츠보통주 목록에 '청약취소' 라벨 표시됨, 청약일 2023.04.11, 청약주수 5주, 청약금액 30,500원. 유상청약 취소거래 확인)",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0014",
+    "source_doc": "doc24.pdf",
+    "page": 14,
+    "text": "3. 퇴직연금 유상청약 FAQ",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0015",
+    "source_doc": "doc24.pdf",
+    "page": 15,
+    "text": "3. 퇴직연금 유상청약 FAQ\n\n1) 유상청약 가능 대상은 무엇인가요?\n- M-STOCK에서 퇴직연금(DB, DC, IRP) 고객 중 리츠 보유 시 유상청약이 가능합니다.\n\n2) M-STOCK의 메뉴 위치는 어떻게 되나요?\n- M-STOCK 로그인 후 ①메뉴 → ②연금 → ③연금 → ④퇴직연금 유상청약\n\n3) 퇴직연금 유상청약 시간은 어떻게 되나요?\n- 청약시작일: 08:00 ~ 16:00\n- 청약마감일: 08:00 ~ 15:00\n\n4) 퇴직연금 유상청약 제한 사항은 무엇인가요?\n- 예약청약 및 초과청약은 불가능하고, 현금으로 본청약만 가능합니다.\n\n5) 신주인수권증서 매도만 가능한가요?\n- 상장 이후 매도만 가능(장외거래 불가)\n*M-STOCK: 메뉴 < 연금 < 연금 < ETF/리츠 매매\n\n6) 퇴직연금 공매도는 가능한가요?\n- 청약입고일 2영업일 전 권리공매도 가능합니다.",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  },
+  {
+    "chunk_id": "doc24.pdf_0016",
+    "source_doc": "doc24.pdf",
+    "page": 16,
+    "text": "3. 퇴직연금 유상청약 FAQ\n\n7) 퇴직연금 유상청약시 주의사항은?\n- 감독규정에 따라 투자위험한도(70%)가 체크됩니다. 따라서 실제 권리 배정수량이 존재하더라도 청약을 할 수 없는 상황이 발생할 수 있습니다. M-STOCK의 경우 실제청약가능수량 내에서 신청 가능합니다. (2023.07.03 집중투자한도(DB 10%, DC/IRP 30%) 폐지)\n\n8) 집중·위험투자한도 관련 상세내용은?\n- 고객의 투자위험한도(70%) 초과로 청약이 어려울 경우, 상품매도 및 입금을 통해서 해소 가능합니다.\n단, 입금을 통해 투자한도 초과를 해소하는 경우에는 입금액만큼 해소되는 것이 아닌, 입금을 통해 늘어난 평가금액 70%에 비례하여 한도가 증액됩니다.\n- 주식형상품(주식형펀드, ETF, 리츠 등) 매도 또는 입금을 통해 한도 증액합니다. (펀드는 환매예약 시 한도 감소, ETF/리츠 등 장내상품은 체결 시 한도 감소)",
+    "doc_id": "doc24",
+    "doc_type": "institution",
+    "extraction_method": "vlm"
+  }
+]
